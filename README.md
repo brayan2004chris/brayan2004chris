@@ -11,7 +11,7 @@ Sou estudante do curso técnico em Tecnologia da Informação para Internet, foc
 •	Git e GitHub
 
 ## Contato
-•	LinkedIn: https://www.linkedin.com/in/seu-perfil (substitua pelo seu link)
+•	[LinkedIn](https://www.linkedin.com/in/brayan-christopher-b80794293/)
 •	E-mail: seu-email@exemplo.com
 
 Obrigado por visitar meu perfil! Se quiser colaborar ou trocar ideias, me mande uma mensagem. 🚀
