@@ -5,9 +5,9 @@ Sou estudante do curso técnico em Tecnologia da Informação para Internet, foc
 •	Veja meus projetos no GitHub: https://github.com/brayan2004chris?tab=repositories
 
 ## Habilidades
-•	HTML5
-•	CSS3 (Flexbox, Grid, responsivo)
-•	JavaScript (ES6+)
+•	HTML
+•	CSS 
+•	JavaScript
 •	Git e GitHub
 
 ## Contato
