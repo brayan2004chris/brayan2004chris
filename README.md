@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá! 👋
+Sou estudante do curso técnico em Tecnologia da Informação para Internet, focado em desenvolvimento front-end. Atualmente trabalho com HTML, CSS e JavaScript e estou estudando frameworks modernos e boas práticas (acessibilidade, performance e Git).
+Projetos
+•	Veja meus projetos no GitHub: https://github.com/brayan2004chris?tab=repositories
+Habilidades
+•	HTML5
+•	CSS3 (Flexbox, Grid, responsivo)
+•	JavaScript (ES6+)
+•	Git e GitHub
+Contato
+•	LinkedIn: https://www.linkedin.com/in/seu-perfil (substitua pelo seu link)
+•	E-mail: seu-email@exemplo.com
+Obrigado por visitar meu perfil! Se quiser colaborar ou trocar ideias, me mande uma mensagem. 🚀
 
-<!--
-**brayan2004chris/brayan2004chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
