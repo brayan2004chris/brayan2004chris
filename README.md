@@ -1,5 +1,5 @@
 ## Olá! 👋
-Sou estudante do curso técnico em Tecnologia da Informação para Internet, focado em desenvolvimento front-end. Atualmente trabalho com HTML, CSS e JavaScript e estou estudando frameworks modernos e boas práticas (acessibilidade, performance e Git).
+Sou um desenvolvedor Web, focado em desenvolvimento front-end. Atualmente trabalho com HTML, CSS e JavaScript e estou estudando frameworks modernos e boas práticas (acessibilidade, performance e Git).
 
 ## Projetos
 •	Veja meus projetos no GitHub: https://github.com/brayan2004chris?tab=repositories
